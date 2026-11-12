@@ -27,7 +27,7 @@ The initial comparative scores and rationales were prepared as an AI-assisted fi
 
 Eighty pairs (LLM-001–060, LLM-081–100) were scored. The remaining 20 (LLM-061–080) were left unscored because reference passages are present in the workbook, but both response texts say the passage was missing. The actual model input conditions cannot be established from the workbook alone. Confirm whether both models received the passage; if not, rerun the pair with identical prompt and context before scoring.
 
-The workbook did not identify either source model, version, or response collection date. Those cells remain blank by design; Model A and Model B refer only to workbook columns.
+The user identified Model A as Gemini 3.8 Flash and Model B as Claude Haiku 5.5; these names are now recorded in the workbook. Response collection dates were not supplied and remain blank.
 
 ## Interpretation
 
