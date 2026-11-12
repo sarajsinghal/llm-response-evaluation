@@ -7,7 +7,7 @@ A multilingual response comparison project using 100 prompts in English, Hindi, 
 - 100 prompt rows are present, and both response columns are populated for all 100.
 - 80 pairs (LLM-001–060 and LLM-081–100) received an AI-assisted first-pass evaluation.
 - LLM-061–080 remain unscored: the workbook contains reference passages, while both responses say the passage was missing. Confirm whether the passages were included in the models’ actual inputs; if not, rerun both models with the same prompt and context.
-- Source model names, versions, and response dates were not provided. The workbook therefore keeps those fields blank.
+- The user identified Model A as Gemini 3.8 Flash and Model B as Claude Haiku 5.5. Collection dates were not provided and remain blank.
 
 The current evaluation is a preliminary AI-assisted review by Codex. It is not an independent human annotation or validated benchmark. Review and confirm scores before presenting them as personal human judgments.
 
@@ -39,5 +39,5 @@ The authored prompt bank contains 100 prompts across five categories, with 20 pr
 
 ## Limitations
 
-Model provenance is missing in the supplied workbook. The current scores are AI-assisted and need human confirmation. Twenty summarization pairs have an input-context ambiguity. The prompt set is small and authored; results can depend on the evaluator, language proficiency, prompt design, model version, and generation settings. Do not claim that a small average-score difference establishes a general winner.
+Response collection dates are missing. The current scores are AI-assisted and need human confirmation. Twenty summarization pairs have an input-context ambiguity. The prompt set is small and authored; results can depend on the evaluator, language proficiency, prompt design, model version, and generation settings. Do not claim that a small average-score difference establishes a general winner.
 
