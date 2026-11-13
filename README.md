@@ -18,7 +18,7 @@ Each response is scored from 1 (poor) to 5 (strong) on factual accuracy, relevan
 
 ## Files
 
-- `Project 2 - LLM Response Evaluation Workbook.xlsx` — prompt bank, model responses, row-level scores and rationales, rubric, and summary formulas.
+- `LLM Response Evaluation Workbook.xlsx` — prompt bank, model responses, row-level scores and rationales, rubric, and summary formulas.
 - `METHODOLOGY.md` — scoring guidance, interpretation, and limitations.
 
 ## Reproduction steps
